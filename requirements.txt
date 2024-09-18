@@ -9,5 +9,3 @@ matplotlib
 scipy
 opencv-python
 keras-cv-attention-models
-vit_keras
-tensorflow-addons
