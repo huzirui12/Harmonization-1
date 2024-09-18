@@ -9,5 +9,5 @@ matplotlib
 scipy
 opencv-python
 keras-cv-attention-models
-vit_keras==0.1.2
-tensorflow-addons==0.17.0
+vit_keras
+tensorflow-addons
